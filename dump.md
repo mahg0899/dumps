@@ -5,3 +5,4 @@
 ![storygraph](https://github.com/user-attachments/assets/fedf05b2-0e1d-4455-acfd-6fda8a29389b)
 ![steam](https://github.com/user-attachments/assets/ba27a2ab-5c4b-475d-80ef-954f06738b43)
 ![reddit](https://github.com/user-attachments/assets/13764075-4df5-4742-a243-67af5d642ebb)
+<img width="375" alt="storygraph" src="https://github.com/user-attachments/assets/59b47723-23a4-4334-8f09-547215486f06">
