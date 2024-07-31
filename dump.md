@@ -1,0 +1,7 @@
+![x-twitter](https://github.com/user-attachments/assets/e810a3f1-a262-4a70-8a52-269788b73139)
+![letterbox](https://github.com/user-attachments/assets/06df86cf-6ce5-44ae-aed7-7865c69193a1)
+![goodreads](https://github.com/user-attachments/assets/01161d52-90ce-4215-9a5d-d594f462af09)
+![discord](https://github.com/user-attachments/assets/0a87daf5-a19d-4bab-b1db-461e3f3be407)
+![storygraph](https://github.com/user-attachments/assets/fedf05b2-0e1d-4455-acfd-6fda8a29389b)
+![steam](https://github.com/user-attachments/assets/ba27a2ab-5c4b-475d-80ef-954f06738b43)
+![reddit](https://github.com/user-attachments/assets/13764075-4df5-4742-a243-67af5d642ebb)
