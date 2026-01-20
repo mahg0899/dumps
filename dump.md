@@ -13,7 +13,6 @@
 ![screenshot_2024_12_26T14_02_25-0600](https://github.com/user-attachments/assets/2ad79fc4-7633-4941-9dcd-7f122b0ce873)
 ![image](https://github.com/user-attachments/assets/cabf9a56-4663-4dcb-96c0-5031fe773a86)
 ![image](https://github.com/user-attachments/assets/c6ac04df-bc77-4305-86c2-2ce663a92b90)
-![image](https://github.com/user-attachments/assets/5500d2f3-0e6c-4b87-8eb8-72d9ae0fc7eb)
 ![fractalis](https://github.com/user-attachments/assets/49da148e-43f3-4be3-8683-7804cb2c52d6)
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <g fill="none" stroke="#C9D6E3" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
