@@ -14,3 +14,48 @@
 ![image](https://github.com/user-attachments/assets/cabf9a56-4663-4dcb-96c0-5031fe773a86)
 ![image](https://github.com/user-attachments/assets/c6ac04df-bc77-4305-86c2-2ce663a92b90)
 ![image](https://github.com/user-attachments/assets/5500d2f3-0e6c-4b87-8eb8-72d9ae0fc7eb)
+![fractalis](https://github.com/user-attachments/assets/49da148e-43f3-4be3-8683-7804cb2c52d6)
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g fill="none" stroke="#C9D6E3" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <!-- HexÃ¡gono exterior (flat-top) -->
+    <polygon points="456,256 356,429.2 156,429.2 56,256 156,82.8 356,82.8"></polygon>
+    <!-- HexÃ¡gono interior -->
+    <polygon points="372,256 314,356.6 198,356.6 140,256 198,155.4 314,155.4"></polygon>
+    <!-- DiÃ¡metros -->
+    <line x1="456" y1="256" x2="56" y2="256"></line>
+    <line x1="356" y1="429.2" x2="156" y2="82.8"></line>
+    <line x1="156" y1="429.2" x2="356" y2="82.8"></line>
+    <!-- Conexiones de vÃ©rtices exteriores con el hexÃ¡gono interior -->
+    <!-- VÃ©rtice en (456,256) -->
+    <line x1="456" y1="256" x2="372" y2="256"></line>
+    <line x1="456" y1="256" x2="314" y2="356.6"></line>
+    <line x1="456" y1="256" x2="314" y2="155.4"></line>
+    <!-- VÃ©rtice en (356,429.2) -->
+    <line x1="356" y1="429.2" x2="314" y2="356.6"></line>
+    <line x1="356" y1="429.2" x2="198" y2="356.6"></line>
+    <line x1="356" y1="429.2" x2="372" y2="256"></line>
+    <!-- VÃ©rtice en (156,429.2) -->
+    <line x1="156" y1="429.2" x2="198" y2="356.6"></line>
+    <line x1="156" y1="429.2" x2="140" y2="256"></line>
+    <line x1="156" y1="429.2" x2="314" y2="356.6"></line>
+    <!-- VÃ©rtice en (56,256) -->
+    <line x1="56" y1="256" x2="140" y2="256"></line>
+    <line x1="56" y1="256" x2="198" y2="356.6"></line>
+    <line x1="56" y1="256" x2="198" y2="155.4"></line>
+    <!-- VÃ©rtice en (156,82.8) -->
+    <line x1="156" y1="82.8" x2="198" y2="155.4"></line>
+    <line x1="156" y1="82.8" x2="314" y2="155.4"></line>
+    <line x1="156" y1="82.8" x2="140" y2="256"></line>
+    <!-- VÃ©rtice en (356,82.8) -->
+    <line x1="356" y1="82.8" x2="314" y2="155.4"></line>
+    <line x1="356" y1="82.8" x2="198" y2="155.4"></line>
+    <line x1="356" y1="82.8" x2="372" y2="256"></line>
+    <!-- Aristas del hexÃ¡gono interior (para reforzar el patrÃ³n) -->
+    <line x1="372" y1="256" x2="314" y2="356.6"></line>
+    <line x1="314" y1="356.6" x2="198" y2="356.6"></line>
+    <line x1="198" y1="356.6" x2="140" y2="256"></line>
+    <line x1="140" y1="256" x2="198" y2="155.4"></line>
+    <line x1="198" y1="155.4" x2="314" y2="155.4"></line>
+    <line x1="314" y1="155.4" x2="372" y2="256"></line>
+  </g>
+</svg>
