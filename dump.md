@@ -27,6 +27,7 @@
     <!-- Conexiones de vÃ©rtices exteriores con el hexÃ¡gono interior -->
     <!-- VÃ©rtice en (456,256) -->
     <line x1="456" y1="256" x2="372" y2="256"></line>
+
     <line x1="456" y1="256" x2="314" y2="356.6"></line>
     <line x1="456" y1="256" x2="314" y2="155.4"></line>
     <!-- VÃ©rtice en (356,429.2) -->
@@ -58,3 +59,4 @@
     <line x1="314" y1="155.4" x2="372" y2="256"></line>
   </g>
 </svg>
+<img width="548" height="548" alt="mahg_logo" src="https://github.com/user-attachments/assets/4bed50ce-845d-414b-a31e-d519b362c8c6" />
